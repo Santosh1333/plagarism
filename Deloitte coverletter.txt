@@ -1,0 +1,52 @@
+Siddartha Teja Madipalli
+B.Singavaram
+Eluru, 534003
+siddardhasid143@gmail.com 
+9494744513
+
+
+Objective:
+Data scientist with a strong background in analytics and artificial intelligence, seeking the A&A Data Scientist role at Deloitte to contribute to advanced data-driven solutions, leverage cutting-edge technologies, and drive business growth through data insights.
+
+Education:
+Bachelor of Technology at Ramachandra College of Engineering, Eluru
+  Artificial Intelligence and Data Science [2020-2024] - 7.49 CGPA
+
+Skills:
+- Programming Languages: Python (NumPy, pandas, scikit-learn)
+- Data Manipulation and Analysis: SQL, data preprocessing, exploratory data analysis (EDA)
+- Machine Learning: Regression, classification, clustering, natural language processing (NLP), deep learning
+- Tools: Jupyter Notebook, Git
+- Data Visualization: Matplotlib, Seaborn
+
+Professional Experience:
+Data Science and Machine Learning Intern, UpSkill Campus, Online, June-July 2023
+- Collaborated with cross-functional teams to identify business problems and develop data-driven solutions.
+- Conducted data cleaning, preprocessing, and feature engineering on large datasets.
+- Built predictive models using machine learning algorithms to improve efficiency.
+- Presented findings and actionable insights to stakeholders using clear visualizations and reports.
+- Assisted in developing and deploying machine learning models for Crop and Weed Detection.
+
+Artificial Intelligence and Machine Learning Intern, IBM SkillsBuild, Online, June-July 2023
+- Collected, cleaned, and analyzed structured data to uncover trends, patterns, and insights.
+- Designed and executed A/B tests to evaluate the impact of Employee Burnout on user engagement.
+- Collaborated with the team to optimize data collection processes and ensure data quality.
+- Provided data-driven recommendations that achieved across more than 85% of accuracy.
+
+Projects:
+- Employee Burnout Prediction
+- Startup Success Rate Prediction
+- Heart Disease Prediction
+- Cancer Prediction
+
+Certifications:
+- Machine Learning Specialization, Coursera
+- Intro to Git and GitHub, Coursera
+- Getting Started with Kaggle, Coursera
+- Python Essential Training, LinkedIn
+
+Languages:
+- Telugu, English
+References:
+Available upon request.
+
